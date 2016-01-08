@@ -19,3 +19,5 @@ An example of printing in java is `console.log(Hey)`. It will print Hey to the c
 
 This is a change
 What kind of change?
+A change to test a merge conflict.
+
