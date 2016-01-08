@@ -17,4 +17,5 @@ An example of printing in java is `console.log(Hey)`. It will print Hey to the c
 
 ![Screenshot of GPS 1.1](img/pairscreenshot.png)
 
-What change do you mean?
+This is a change
+
